@@ -3,5 +3,5 @@ package go_say_hello
 import "fmt"
 
 func SayHello() {
-	fmt.Println("Hello dunia")
+	fmt.Println("Hello dunia tipu tipu")
 }
