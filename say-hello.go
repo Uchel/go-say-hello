@@ -1,7 +1,9 @@
 package go_say_hello
 
-import "fmt"
-
-func SayHello() {
-	fmt.Println("Hello dunia tipu tipu")
+func SayHello() string {
+	return "hello dunia ini"
+}
+func Perkalian() int {
+	result := 5 + 5
+	return result
 }
